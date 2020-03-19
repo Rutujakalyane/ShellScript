@@ -1,0 +1,235 @@
+    1  pwd
+    2  java -version
+    3  cd c:
+    4  mkdir rk
+    5  ls
+    6  mkdir TerminalCommands
+    7  git --version
+    8  git clone https://github.com/edurekavivekh/linux-content.git
+    9  cd rk
+   10  cd TerminalCommands
+   11  ls
+   12  mkdir TerminalCommands
+   13  cd TerminalCommands
+   14  ls
+   15  nano -T 3 Helloworld.java
+   16  javac Helloworld.java
+   17  nano -T 3 Helloworld.java
+   18  javac Helloworld.java
+   19  ls -l
+   20  git clone https://github.com/edurekavivekh/linux-content.git
+   21  java Helloworld
+   22  ps -elf | grep java | grep -v grep
+   23  jobs
+   24  pwd
+   25  clear
+   26  pwd
+   27  cd -
+   28  cd -
+   29  cd ~
+   30  mkdir r
+   31  cd r
+   32  cd c:
+   33  cd r
+   34  mkdir r
+   35  cd rk
+   36  mkdir TermialCommands
+   37  cd TerminalCommands
+   38  java -version
+   39  git --version
+   40  nano -T 3 rhk.java
+   41  javac rhk.java
+   42  java rhk
+   43  history 
+   44  history > rhk.txt
+   45  git add <terminalbasics>
+   46  git init
+   47  git remote add origin https://github.com/Rutujakalyane/rk.git
+   48  git status 
+   49  git add Helloworld.java
+   50  git commit -m "first commit helloworld"
+   51  git commit -m "first commit"
+   52    git config --global user.email "you@example.com"
+   53  pwd
+   54  java -version
+   55  cd c:
+   56  mkdir rutuja
+   57  ls
+   58  mkdir TerminalCommands
+   59  git --version
+   60  git clone https://github.com/edurekavivekh/linux-content.git
+   61  git clone https://github.com/edurekavivekh/linux-content.git
+   62  clear
+   63  cd c:
+   64  cd c:
+   65  cd c:c/rk
+   66  cd c:c/
+   67  cd c: c
+   68  cd : c/rk
+   69  cd c:/rk
+   70  cd c:/rk/TerminalCommands
+   71  git init
+   72  echo "Rutuja"
+   73  git init
+   74  git status
+   75  ls
+   76  git init
+   77  git add .
+   78  git commit -m "first commit"
+   79  git remote add origin https://github.com/Rutujakalyane/Rutuja.git
+   80  git push origin master
+   81  history
+   82  history > HistoryGit
+   83  history > HistoryGit.txt
+   84  pwd
+   85  ls .
+   86  ls ..
+   87  ls ~
+   88  ls -a
+   89  ls -l
+   90  mkdie new
+   91  mkdir new
+   92  mkdir -p new/temp
+   93  ls
+   94  cd new
+   95  ls
+   96  cd ~
+   97  touch file1
+   98  ls -p
+   99  cp file1 file2
+  100  ls -p
+  101  mv file1 new/temp
+  102  mv file2 new/temp
+  103  ls new/temp
+  104  whereis ls
+  105  ls
+  106  whereis ls
+  107  whereis new
+  108  cp file1 file2
+  109  ls -p
+  110  mv file1 file2
+  111  ls -p
+  112  ln -s file1 temp/
+  113  ls /bin
+  114  man ls
+  115  cd /new/temp
+  116  cd /new/file1
+  117  cd /new/temp
+  118  less file1
+  119  ls -l /etc/passwd
+  120  cd etc
+  121  mkdir etc
+  122  cd etc
+  123  ls passwd
+  124  ls -l /etc/passwd
+  125  less file1
+  126  cd new
+  127  q
+  128  clear
+  129  pwd
+  130  rm -R etc
+  131  cd rk
+  132  cd : c/rk
+  133  cd rk
+  134   rm -R r/etc
+  135   rm etc
+  136   rm new
+  137  cd rk
+  138  cd ~
+  139  cd c:c/rk
+  140  cd : c/rk
+  141  history 
+  142  cd rk/TerminalCommands
+  143  cd c:
+  144  cd rk/TerminalCommands
+  145  pwd
+  146  ls..
+  147  ls ..
+  148  mkdir new
+  149  mkdir new1
+  150  ls
+  151  rm -r new
+  152  mkdir -p new1/temp
+  153  ls
+  154  cd ~
+  155  touch File1
+  156  ls -p
+  157  cp File1 File2
+  158  mv File1 new1/temp
+  159  ls new1/temp
+  160  man ls
+  161  rm -R temp
+  162  mkdir temp
+  163  rm -R temp
+  164  cd temp/
+  165  mkdir -p temp/temp
+  166  ls
+  167  cd temp/
+  168  pwd
+  169  touch Test1
+  170  ls -p
+  171  cp Test1 Test2
+  172  mv Test1 Test2
+  173  whereis ls
+  174  ls bin
+  175  ls /bin
+  176  man ls
+  177  ls -l/etc/passwd
+  178  ls -l new1/temp
+  179  less /temp
+  180  head File1
+  181  head temp
+  182  ls
+  183  cat File1 | grep h
+  184  ~
+  185  ..
+  186* 
+  187  cd -
+  188  cd -
+  189  cd rk
+  190* cd 
+  191  cd c:/rk
+  192  cd c:/rk/TerminalCommands
+  193  touch file1
+  194  ls
+  195  cp file1 file2
+  196  mv file1 file2
+  197  man ls
+  198  cd new1/temp
+  199  ls 
+  200  less file1
+  201  less /temp
+  202  cd ..
+  203  less /temp
+  204  less file1
+  205  less file2
+  206  cd ..
+  207  less file2
+  208  cat >file1
+  209  head file1
+  210  tail file1
+  211  head -2 file1
+  212  tail -2 file1
+  213  cat >file1 
+  214  head file1
+  215  head -2 file1
+  216  tail -2 file1
+  217  tail file1
+  218  touch  pqr.txt
+  219  find . -name *.txt
+  220  ls
+  221  find . -type f| grep txt
+  222  cat file1 | grep 1
+  223  cat file1 | grep h
+  224  grep 1
+  225  ls
+  226  touch new2.txt
+  227  ls
+  228  ls -p 
+  229  ls -p | grep /
+  230  env
+  231  env | grep SHELL
+  232  du -sh
+  233  du -sh | sort -n
+  234  history
+  235  history > basiccommands2.txt
