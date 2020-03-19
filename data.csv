@@ -1,0 +1,5 @@
+$ cat > data.csv
+Id  Employee  JobTitle   BasePay    OvertimePay   Other
+1   Tom       Mechanic   16000      5000          3000
+2   Adam      Deputchief 40000      2000          1000
+3   Gary      Executive  25000      4000          2000
