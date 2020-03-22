@@ -1,6 +1,6 @@
 leapyear()
 {
-	y=$(( $year % 4 && $year % 400 && $year % 100))
+	y=$(( $year % 4))
 
 	 if [ $y -ne 0 ]; then
 	    return 1
