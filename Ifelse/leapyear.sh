@@ -7,12 +7,9 @@ leapyear()
 	  else
    	    return 0
 	 fi
-
 }
-
-	echo -n  "Enter Year: "
- 	   read year
-
+echo -n  "Enter Year: "
+ read year
 	if ! leapyear "$y" ; then
 	   echo "$year is not a leap year! "
 	   exit 1
