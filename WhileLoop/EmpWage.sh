@@ -1,5 +1,3 @@
-#!/bin/bash -x
-
 isPartTime=1;
 isFullTime=2;
 maxHrsInMonth=100;
