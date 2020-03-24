@@ -1,9 +1,9 @@
 echo "Enter number : "
 read num
 isPrime=true
-for ((counter=2; counter<=$(($num/2)); counter++))
+for ((i=2; i<=$(($num/2)); i++))
 do
-	if [ $(($num%counter )) -eq 0 ];
+	if [ $(($num%i )) -eq 0 ];
 	then 
 		isPrime=false
 	fi	
