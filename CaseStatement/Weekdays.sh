@@ -1,4 +1,4 @@
-read -p "Enter Day : " number
+read -p "Enter Day : "number
 case $number in
                 1)Day=Sunday
                         ;;
